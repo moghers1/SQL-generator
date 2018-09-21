@@ -1,0 +1,2 @@
+INFO:root:createSQL function ran in: 0.0033 seconds
+INFO:root:10 records will be inserted into tst1.test_table table
